@@ -2,9 +2,9 @@
 
 **PhD in Computer Engineering | Complex Networks & Graph Machine Learning Researcher**
 
-I am a computer engineering researcher working at the intersection of complex networks, community detection, and machine learning.
+I am a computer engineering researcher working at the intersection of **complex networks, community detection, and machine learning**.
 
-My research focuses on developing computational methods for discovering and understanding community structure in networks, with a current emphasis on graph machine learning and explainable graph learning.
+My research focuses on developing computational methods for discovering and understanding community structure in networks, with a current emphasis on **graph machine learning and explainable graph learning**.
 
 ## Research Interests
 
@@ -16,7 +16,7 @@ My research focuses on developing computational methods for discovering and unde
 
 ## Current Research
 
-I am currently investigating machine learning approaches for community detection, with a particular interest in integrating structural information into graph learning and developing interpretable outputs that can help explain detected community structure.
+I am currently investigating **machine learning approaches for community detection**, with a particular interest in integrating structural information into graph learning and developing interpretable outputs that can help explain detected community structure.
 
 ## Academic Profiles
 
